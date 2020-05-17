@@ -1,0 +1,15 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Hola Mundo en Graphql",
+  "main": "build/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "curso"
+  ],
+  "author": "Juan Caspi <juan.caspi7@gmail.com>",
+  "license": "MIT"
+}
